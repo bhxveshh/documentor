@@ -9,3 +9,4 @@ langchain-groq
 faiss-cpu
 sentence-transformers
 requests
+gunicorn
