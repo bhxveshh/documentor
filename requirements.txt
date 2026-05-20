@@ -1,0 +1,11 @@
+flask
+flask-cors
+langchain
+langchain-text-splitters
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+faiss-cpu
+sentence-transformers
+requests
