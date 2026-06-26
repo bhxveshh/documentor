@@ -174,4 +174,4 @@ These live as constants near the top of `api.py`:
 
 ## License
 
-No license file is currently included — add one (MIT, Apache-2.0, etc.) depending on how you want this project to be used.
+This project is licensed under the [MIT License](LICENSE).
